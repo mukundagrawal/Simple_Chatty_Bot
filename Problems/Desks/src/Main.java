@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class Main {
     public static void main(String[] args) {
-        /*Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         // put your code here
         int a=scanner.nextInt();
         int b=scanner.nextInt();
@@ -28,10 +28,7 @@ class Main {
         }
         int d=a+b+c;
 
-         */
-        int a=300;
-        int b=a++;
-        int d=--b;
-        System.out.println(d);
+         
+        
     }
 }
